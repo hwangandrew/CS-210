@@ -13,7 +13,7 @@ Did you find writing any piece of this code challenging, and how did you overcom
 - I did not run into challenges in this project and found the prompt to be easy to manage. There were a variety of times I used many cout statements to debug when the program did not perform as expected. 
 
 What skills from this project will be particularly transferable to other projects and/or course work?
-- From this project, I became much more familiar with try/catch statements for error checking. Previously, I had no experience using thsoe types of statements aside from the textbook learnings.
+- From this project, I became much more familiar with try/catch statements for error checking. Previously, I had no experience using those types of statements aside from the textbook learnings.
  
 How did you make this program maintainable, readable, and adaptable?
 - I used a variety of try/catch statements in order to prevent run-time errors and continuously run until the endpoint goals were achieved. I commented appropriately throughout my code to explain what each section was intended to do and used appropriate variable names in order to make it clear what the functions were doing. 
